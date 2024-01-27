@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bar-Wizard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <aside id="glasses">
+      <h3>Glasses</h3>
+      <ul>
+        <li><img src="glasses/collins.svg" /></li>
+        <li><img src="glasses/tumbler.svg" /></li>
+      </ul>
+    </aside>
+
+    <main>
+      <div id="pages">
+        <section class="glasses page active">
+          <h2>Glass</h2>
+          <div id="canvas"></div>
+          <div style="flex: 0 1 auto"></div>
+        </section>
+        <section class="mixers page right"><h2>Mixers</h2></section>
+        <section class="details page right"><h2>Details</h2></section>
+      </div>
+    </main>
+
+    <script src="modules/snap.svg.js"></script>
+    <script src="modules/wizard.js"></script>
+  </body>
+</html>
