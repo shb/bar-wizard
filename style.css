@@ -83,7 +83,6 @@ body > main {
 }
 
 .page h2 {
-  padding: 0 1ex;
   position: absolute;
   right: 0;
 }
@@ -99,14 +98,14 @@ body > main {
 .page.left h2 {
   left: 0;
   right: unset;
-  transform: rotateZ(-90deg) translateY(-50%);
-  transform-origin: center;
+  transform: translateY(50%) rotateZ(-90deg) translateX(-50%);
+  transform-origin: top left;
 }
 .page.right h2 {
   left: unset;
   right: 0;
-  transform: rotateZ(-90deg) translateY(50%);
-  transform-origin: center;
+  transform: translateY(-50%) rotateZ(-90deg) translateX(50%);
+  transform-origin: bottom right;
 }
 
 #pages {
@@ -123,7 +122,12 @@ body > main {
   padding: 25%;
   text-align: center;
 }
+
 #canvas > svg {
   height: 100%;
   width: 100%;
+}
+
+#mixers rect {
+  cursor: pointer;
 }
