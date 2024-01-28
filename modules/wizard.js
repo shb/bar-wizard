@@ -1,8 +1,8 @@
 const canvas = Snap.select("#canvas")
 
-pages.addEventListener('dragenter', onDrag)
-pages.addEventListener('dragover', onDrag)
-pages.addEventListener('drop', onDrop)
+pages.addEventListener("dragenter", onDrag)
+pages.addEventListener("dragover", onDrag)
+pages.addEventListener("drop", onDrop)
 
 document.querySelectorAll(".page").forEach((page, i) => {
   page.addEventListener("click", () => {
@@ -14,13 +14,13 @@ selectPage(0)
 
 function onDrag(e) {
   e.preventDefault()
-  e.dataTransfer.dropEffect = 'move'
+  e.dataTransfer.dropEffect = "move"
 }
 
 function onDrop(e) {
   e.preventDefault()
   const url = e.dataTransfer.getData("url")
-  canvas.children().forEach(child => child.remove())
+  canvas.children().forEach((child) => child.remove())
   loadGlass(url)
 }
 
@@ -57,8 +57,16 @@ function selectPage(activeIndex) {
     if (ri === 0) {
       page.classList.add("active")
       page.appendChild(canvas.node)
+      selectStep(page.dataset["step"])
     } else {
       page.classList.add(ri < 0 ? "left" : "right")
     }
+  })
+}
+
+function selectStep(step) {
+  document.querySelectorAll("body > aside > *").forEach((toolbar) => {
+    const steps = toolbar.dataset["step"]?.split(',') ?? []
+    toolbar.style.display = steps.includes(step) ? "block" : "none"
   })
 }
