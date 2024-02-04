@@ -1,60 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
-   width="38.382999mm"
-   height="37.766869mm"
-   viewBox="0 0 38.382999 37.766869"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   sodipodi:docname="tumbler.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="2.6653938"
-     inkscape:cx="51.774713"
-     inkscape:cy="57.589989"
-     inkscape:window-width="1440"
-     inkscape:window-height="900"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg1" /><defs
-     id="defs1"><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4"><use
-         x="0"
-         y="0"
-         xlink:href="#inner"
-         id="use4" /></clipPath></defs><g
-     id="back"
-     inkscape:label="back"><path
-       id="outer"
-       style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 24.532514,93.463903 23.81588,0.04421 m -23.27768,2.995519 h 22.78854 l 5.70496,-33.499371 -34.1182,-0.0669 z"
-       transform="translate(-17.19685,-60.688194)" /></g><g
-     id="details"
-     inkscape:label="details" /><g
-     id="mixers"
-     clip-path="url(#clipPath4)"
-     inkscape:label="mixers" /><g
-     inkscape:label="front"
-     id="front"><path
-       style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -149.81677,23.37834 4.63572,28.216046 c 0,0 0.10333,0.51647 0.38277,0.774204 0.27945,0.257735 0.76678,0.273913 0.76678,0.273913 l 20.20638,-0.01931 c 0,0 0.9677,0.05337 1.32469,-0.357842 0.32041,-0.369067 0.4183,-1.069806 0.49072,-1.422517 l 4.7559,-27.431466"
-       id="inner"
-       transform="translate(152.82479,-21.090049)"
-       inkscape:label="inner" /></g></svg>
+<svg width="38.382999mm" height="37.766869mm" viewBox="0 0 38.382999 37.766869" version="1.1" id="svg1" xml:space="preserve" sodipodi:docname="tumbler.svg" inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="2.6653938" inkscape:cx="51.774713" inkscape:cy="57.589989" inkscape:window-width="1440" inkscape:window-height="900" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg1" />
+  <defs id="defs1">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4">
+      <use x="0" y="0" xlink:href="#inner" id="use4" />
+    </clipPath>
+  </defs>
+  <g id="back" inkscape:label="back">
+    <path id="outer" style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m 24.532514,93.463903 23.81588,0.04421 m -23.27768,2.995519 h 22.78854 l 5.70496,-33.499371 -34.1182,-0.0669 z" transform="translate(-17.19685,-60.688194)" />
+  </g>
+  <g id="mixers" clip-path="url(#clipPath4)" inkscape:label="mixers" />
+  <g id="details" inkscape:label="details" />
+  <g inkscape:label="front" id="front">
+    <path style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m -149.81677,23.37834 4.63572,28.216046 c 0,0 0.10333,0.51647 0.38277,0.774204 0.27945,0.257735 0.76678,0.273913 0.76678,0.273913 l 20.20638,-0.01931 c 0,0 0.9677,0.05337 1.32469,-0.357842 0.32041,-0.369067 0.4183,-1.069806 0.49072,-1.422517 l 4.7559,-27.431466" id="inner" transform="translate(152.82479,-21.090049)" inkscape:label="inner" />
+  </g>
+</svg>

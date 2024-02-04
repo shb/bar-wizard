@@ -9,10 +9,12 @@
    id="svg1"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <title>Champagne</title>
+   <defs
      id="defs1" /><g
      id="layer19"
      transform="translate(61.462209,-22.42785)"><path
-       style="fill:#ff00ff;fill-opacity:0.25;stroke:#333333;stroke-width:0.2;stroke-linejoin:round"
+       style="fill:#f0ef80;stroke:#333333;stroke-width:0.2;stroke-linejoin:round"
        d="m -48.924132,22.52785 c 0,5.890161 0.352921,13.062522 -1.977021,18.982077 -1.852315,4.706073 -7.646931,7.280234 -9.135936,12.113562 -3.840042,12.464824 1.896587,39.082769 1.896587,39.082769 h 25.000052 c 0,0 5.42577,-26.668398 1.522177,-39.121148 -1.509344,-4.814919 -7.249309,-7.396495 -9.118139,-12.083609 -2.357245,-5.912079 -2.14106,-13.029703 -2.14106,-18.973651 z"
-       id="path1" /></g></svg>
+       id="inner" /></g></svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38.382999mm" height="37.766869mm" viewBox="0 0 38.382999 37.766869" version="1.1" id="svg1" xml:space="preserve"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4">
+      <use x="0" y="0" xlink:href="#inner"/>
+    </clipPath>
+  </defs>
+  <g id="back">
+    <path id="outer" style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m 24.532514,93.463903 23.81588,0.04421 m -23.27768,2.995519 h 22.78854 l 5.70496,-33.499371 -34.1182,-0.0669 z" transform="translate(-17.19685,-60.688194)" />
+  </g>
+  <g id="mixers" clip-path="url(#clipPath4)"/>
+  <g id="details"/>
+  <g id="front">
+    <path style="display:inline;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m -149.81677,23.37834 4.63572,28.216046 c 0,0 0.10333,0.51647 0.38277,0.774204 0.27945,0.257735 0.76678,0.273913 0.76678,0.273913 l 20.20638,-0.01931 c 0,0 0.9677,0.05337 1.32469,-0.357842 0.32041,-0.369067 0.4183,-1.069806 0.49072,-1.422517 l 4.7559,-27.431466" id="inner" transform="translate(152.82479,-21.090049)"/>
+  </g>
+</svg>
