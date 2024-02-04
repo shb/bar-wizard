@@ -7,17 +7,18 @@ const canvas = Snap.select("#canvas");
  */
 const diagram = {
   glass: null,
+  details: null,
   mixers: null,
 
   loadGlass(url) {
     this.glass = null;
     canvas.children().forEach((child) => child.remove());
-    Snap.load(url, (template) => {
-      const glass = template.select("svg");
+    Snap.load(url, svg => {
+      const glass = svg.select("svg");
       canvas.append(glass);
       this.glass = glass;
       this.mixers = diagram.glass.select("#mixers");
-
+      this.details = diagram.glass.select("#details");
       this.updateMixers(recipe.mixers);
     });
   },
@@ -38,6 +39,13 @@ const diagram = {
       });
     });
   },
+
+  addGarnish (url) {
+    Snap.load(url, svg => {
+      const garnish = svg.select("svg");
+      this.details.append(garnish)
+    })
+  }
 };
 
 /**
@@ -121,16 +129,17 @@ document.querySelectorAll(".page").forEach((page, i) => {
 });
 
 diagram.loadGlass("glasses/tumbler.svg");
-selectPage(1);
+selectPage(2);
 
 function onDrag(e) {
   switch (state.step) {
-    case "glasses":
-      e.dataTransfer.dropEffect = "move";
-      break;
+    case "details":
     case "mixers":
       if (!diagram.glass) return;
       e.dataTransfer.dropEffect = "copy";
+      break;
+    case "glasses":
+      e.dataTransfer.dropEffect = "move";
       break;
     default:
       return;
@@ -140,12 +149,16 @@ function onDrag(e) {
 
 function onDrop(e) {
   switch (state.step) {
-    case "glasses":
-      diagram.loadGlass(e.dataTransfer.getData("url"));
+    case "details":
+      if (!diagram.glass) return;
+      diagram.addGarnish(e.dataTransfer.getData("url"));
       break;
     case "mixers":
       if (!diagram.glass) return;
       addMixer(e.dataTransfer.getData("url"));
+      break;
+    case "glasses":
+      diagram.loadGlass(e.dataTransfer.getData("url"));
       break;
     default:
       return;
@@ -165,7 +178,7 @@ function addMixer(url) {
     if (inner) {
       fill =
         inner.node.style["fill"] || inner.node.getAttribute("fill") || fill;
-      name = svg.select("svg > title").node.innerHTML || name
+      name = svg.select("svg > title").node.innerHTML || name;
     }
 
     // Normalize color to HEX representation

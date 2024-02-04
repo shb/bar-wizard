@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="25.506485mm" height="14.552027mm" viewBox="0 0 25.506485 14.552027" version="1.1" id="svg1" xml:space="preserve"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs1">
+    <linearGradient id="linearGradient7">
+      <stop style="stop-color:#dcc5c5;stop-opacity:1;" offset="0" id="stop7" />
+      <stop style="stop-color:#a31820;stop-opacity:1;" offset="0.40011781" id="stop8" />
+    </linearGradient>
+    <radialGradient xlink:href="#linearGradient7" id="radialGradient8" cx="184.58496" cy="-79.641739" fx="184.58496" fy="-79.641739" r="4.5924015" gradientTransform="matrix(0.9809727,-0.54141315,0.36967534,0.64314046,32.899782,70.934767)" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g id="layer6" transform="translate(-189.93455,-30.888024)">
+    <g id="layer13" style="display:inline" transform="translate(-0.19157171,-0.22280885)">
+      <g id="g8" style="display:inline">
+        <ellipse style="fill:url(#radialGradient8);fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.311896;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path71" cx="185.64685" cy="-78.708359" rx="4.4364533" ry="3.7933013" transform="matrix(0.81585473,0.57825691,-0.54619102,0.83766065,0,0)" />
+        <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m 196.39404,38.078545 c 0,0 1.16735,-1.413584 2.00979,-2.107831 0.84244,-0.694247 2.0179,-1.401248 3.06371,-1.960774 1.04582,-0.559526 2.18936,-1.03465 3.18626,-1.397051 0.9969,-0.3624 1.78416,-0.581023 2.76959,-0.808819 0.98543,-0.227796 2.30306,-0.513127 3.13724,-0.539213 0.83418,-0.02609 1.26423,0.07624 1.81372,0.196078 0.54948,0.119833 1.04627,0.260925 1.47057,0.490193 0.13532,0.07312 0.47913,0.295523 0.59188,0.3647 0.24078,0.147731 0.47562,0.379753 0.62632,0.54727 0.13274,0.147548 0.21849,0.229121 0.32211,0.521312 0.10363,0.292191 0.11522,0.440946 0.0825,0.748079 -0.0327,0.307132 -0.20639,0.658647 -0.32829,0.87268 -0.12191,0.214033 -0.34314,0.426332 -0.34314,0.426332" id="path72" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="14.193965mm" height="11.384274mm" viewBox="0 0 14.193965 11.384274" version="1.1" id="svg1" xml:space="preserve"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs1">
+    <filter style="color-interpolation-filters:sRGB" id="filter29" x="-0.053179357" y="-0.014894579" width="1.1063587" height="1.0297892">
+      <feGaussianBlur stdDeviation="0.029029768" id="feGaussianBlur29" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter50" x="-0.049508987" y="-0.012066588" width="1.099018" height="1.0241332">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur50" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter51" x="-0.054496287" y="-0.013382466" width="1.1089926" height="1.0267649">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur51" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter52" x="-1.6725255" y="-0.031256675" width="4.345051" height="1.0625133">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur52" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter53" x="-1.2541219" y="-0.029298231" width="3.5082438" height="1.0585965">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur53" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter54" x="-2.5094417" y="-0.027822756" width="6.0188835" height="1.0556455">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur54" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter55" x="-1.2539193" y="-0.033075711" width="3.5078387" height="1.0661514">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur55" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter56" y="-0.076702535" height="1.1534051" x="-inf" width="inf">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur56" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter57" x="-5.0195543" y="-0.017861227" width="11.039109" height="1.0357225">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur57" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter58" x="-5.0190695" y="-0.048091201" width="11.038139" height="1.0961824">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur58" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter59" x="-2.5096967" y="-0.015581804" width="6.0193933" height="1.0311636">
+      <feGaussianBlur stdDeviation="0.017650532" id="feGaussianBlur59" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter68" x="-0.0065046107" y="-0.020509425" width="1.0130092" height="1.0410189">
+      <feGaussianBlur stdDeviation="0.017512878" id="feGaussianBlur68" />
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter69" x="-0.010422762" y="-0.0049142398" width="1.0288512" height="1.0209533">
+      <feGaussianBlur stdDeviation="0.017512878" id="feGaussianBlur69" />
+    </filter>
+  </defs>
+  <g id="layer6" transform="translate(-336.06825,-56.28044)">
+    <g id="layer11" style="display:inline" transform="translate(-0.19157171,-0.22280885)">
+      <path style="mix-blend-mode:normal;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0.86;stroke-opacity:1;filter:url(#filter68)" d="m 350.2595,64.922202 -6.46171,-2.049346" id="path27" />
+      <path style="mix-blend-mode:normal;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0.26;stroke-opacity:1;filter:url(#filter69)" d="m 336.89693,65.173142 6.9845,-2.258462 -0.20911,-6.294419" id="path26" />
+      <path style="fill:#87d5ea;fill-opacity:0.25;stroke:#333333;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 336.751,65.244217 6.39657,2.510804 7.17373,-2.690147 -0.47825,-6.994383 -6.21723,-1.434745 -7.2335,2.27168 z" id="path23" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 336.37313,58.957001 6.46417,1.784381 0.33668,6.901853" id="path24" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 342.82577,60.741002 7.03276,-2.515994" id="path25" />
+      <path style="mix-blend-mode:normal;fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.26;stroke-opacity:1;filter:url(#filter29)" d="m 345.94105,65.555278 2.1907,-5.854162" id="path28" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter50)" d="m 345.4624,65.315957 1.80412,-4.933696" id="path29" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter51)" d="m 345.0574,64.94777 1.63843,-4.455053" id="path30" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter52)" d="m 341.81736,59.480204 0.0552,-1.417517" id="path31" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter53)" d="m 341.28349,59.535432 0.0736,-1.527973" id="path32" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter54)" d="m 340.74962,59.296111 0.0368,-1.564792" id="path33" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter55)" d="m 340.34461,59.148836 0.0736,-1.362289" id="path34" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter56)" d="m 339.90279,59.093609 v -0.55228" id="path35" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter57)" d="m 338.50368,63.272523 0.0184,-2.393211" id="path36" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter58)" d="m 338.00663,62.296829 0.0184,-0.902056" id="path37" />
+      <path style="fill:none;fill-opacity:0;stroke:#333333;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.982677;filter:url(#filter59)" d="m 337.43594,62.81229 -0.0368,-2.761397" id="path38" />
+    </g>
+  </g>
+</svg>
